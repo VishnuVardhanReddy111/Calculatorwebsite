@@ -3,7 +3,7 @@
   color: #55ffff;
 }
 h1{
-  border:2px solid #55ffff;
-border-left-width: 30px;
-border-right-width: 600px;
+border: 2px solid #55ffff;
+border-width: 10px;
+border-right-width: 720px;
 }
